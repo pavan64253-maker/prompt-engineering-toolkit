@@ -1,4 +1,4 @@
-# Prompt Engineering Practice
+# Prompt Engineering Course
 
 A beginner-friendly collection of runnable examples, short topic notes, and practical assignments for learning prompt engineering.
 
